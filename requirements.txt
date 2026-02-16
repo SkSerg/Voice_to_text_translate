@@ -1,0 +1,9 @@
+pyaudiowpatch
+numpy
+scipy
+onnxruntime
+faster-whisper
+requests
+python-dotenv
+PySide6==6.8.0.2
+keyboard
