@@ -41,6 +41,7 @@ Ollama must be installed for translation features to work.
 Official installation page: `https://ollama.com/download`
 
 ```powershell
+ollama pull translategemma:4b
 python -m venv .venv
 .\.venv\Scripts\activate
 .\.venv\Scripts\python -m pip install -r requirements.txt
